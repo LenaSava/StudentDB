@@ -1,0 +1,3 @@
+2019-03-31 15:15:55.102 [http-bio-9999-exec-1] INFO  ua.training.controller.commands.LoginTeacherCommand - Invalid attempt of login user:'qwswqs'
+2019-03-31 15:16:12.082 [http-bio-9999-exec-2] INFO  ua.training.controller.commands.LoginTeacherCommand - Invalid attempt of login user:'owkde'
+2019-03-31 15:52:31.081 [http-bio-9999-exec-1] INFO  ua.training.controller.commands.LoginTeacherCommand - Teacher steve logged successfully.
